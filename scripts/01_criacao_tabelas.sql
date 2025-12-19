@@ -1,0 +1,2 @@
+-- Script inicial de criação de tabelas
+-- Projeto PostgreSQL Trainee
